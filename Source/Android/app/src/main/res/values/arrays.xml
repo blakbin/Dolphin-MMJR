@@ -377,12 +377,12 @@
         <item>Z</item>
         <item>Start</item>
         <item>L</item>
-        <item>R</item>
-        <item>L Analog</item>
-        <item>R Analog</item>
+        <item>R</item>        
         <item>D-Pad</item>
         <item>Main Stick</item>
         <item>C Stick</item>
+        <item>L Analog</item>
+        <item>R Analog</item>
     </string-array>
 
     <string-array name="wiimoteButtons">
