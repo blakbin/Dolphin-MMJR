@@ -155,6 +155,16 @@
             android:textColor="#ffffff"
             android:textAllCaps="false" />
         -->
+        <Button
+            android:id="@+id/menu_clear_data"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/gameprop_button_height"
+            android:background="@drawable/button_primary_gradient"
+            android:stateListAnimator="@null"
+            android:text="@string/properties_clear_game_data"
+            android:textAllCaps="false"
+            android:textColor="?attr/colorOnGradientPrimary" />
     </LinearLayout>
 
 </RelativeLayout>
